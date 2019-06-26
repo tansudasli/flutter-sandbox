@@ -14,4 +14,4 @@ this is created a genetic static web project in IntelliJ. And flutter apps added
    - to configure simulators/emulators
      - for IOS, run `open -a Simulator.app`
      - for Android, use IntelliJ **UI**, `tools/Android/AVD Manager` menu
-   - `flutter run`
+   - `flutter run` or `flutter run -d DEVICE_ID` in case of many running simulators/emulators
