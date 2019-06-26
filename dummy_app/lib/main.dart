@@ -18,6 +18,11 @@ class MyApp extends StatelessWidget {
 }
 
 class MyHomePage extends StatelessWidget {
+  //TODO fetch from REST API
+  final List<List<String>> products = [
+    ['Food Hell', 'assets/images/food-post.jpg'],
+    ['Food Parade', 'assets/images/food-post-2.jpg']
+  ];
 
   @override
   Widget build(BuildContext context) {
@@ -25,7 +30,7 @@ class MyHomePage extends StatelessWidget {
       appBar: AppBar(
         title: Text('Title'),
       ),
-      body: ProductManager()
+      body: ProductManager(products)
     );
   }
 }

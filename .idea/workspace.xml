@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27f34616-f2bb-43e8-bfca-294f81ed0ed5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dummy_app/lib/product_manager.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dummy_app/lib/products.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dummy_app/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/dummy_app/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_app/lib/product_manager.dart" beforeDir="false" afterPath="$PROJECT_DIR$/dummy_app/lib/product_manager.dart" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,8 +37,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dummy_app/lib/main.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="27" column="28" lean-forward="true" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+            <state relative-caret-position="271">
+              <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -50,8 +49,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dummy_app/lib/product_manager.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="395">
-              <caret line="31" column="26" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
+            <state relative-caret-position="402">
+              <caret line="32" column="14" selection-start-line="31" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -62,8 +61,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dummy_app/lib/products.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="360">
+              <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -233,7 +232,7 @@
       <workItem from="1561539640329" duration="389000" />
       <workItem from="1561540157806" duration="5198000" />
       <workItem from="1561547130684" duration="1725000" />
-      <workItem from="1561549996454" duration="9482000" />
+      <workItem from="1561549996454" duration="11567000" />
     </task>
     <task id="LOCAL-00001" summary="Initialize - how to start">
       <created>1561541506404</created>
@@ -319,11 +318,18 @@
       <option name="project" value="LOCAL" />
       <updated>1561566021152</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="App separated into small modules.">
+      <created>1561571178785</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1561571178785</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17128000" />
+    <option name="totallyTimeSpent" value="19213000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1031" height="877" extended-state="0" />
@@ -346,12 +352,12 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Android Profiler" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.3299363" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50050557" side_tool="true" weight="0.3299363" />
       <window_info anchor="bottom" id="Logcat" order="10" />
       <window_info anchor="bottom" id="Flutter Performance" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info anchor="bottom" id="Version Control" order="13" weight="0.3299363" />
-      <window_info anchor="bottom" id="Terminal" order="14" visible="true" weight="0.3299363" />
+      <window_info anchor="bottom" id="Version Control" order="13" sideWeight="0.49949443" weight="0.3299363" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="14" visible="true" weight="0.3299363" />
       <window_info anchor="bottom" id="Dart Analysis" order="15" weight="0.3299363" />
       <window_info anchor="bottom" id="Messages" order="16" weight="0.3299363" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -361,7 +367,7 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Flutter Inspector" order="5" />
       <window_info anchor="right" id="Device File Explorer" order="6" sideWeight="0.5019108" side_tool="true" weight="0.3297568" />
-      <window_info active="true" anchor="right" id="Flutter Outline" order="7" sideWeight="0.49808916" visible="true" weight="0.30232558" />
+      <window_info anchor="right" id="Flutter Outline" order="7" sideWeight="0.49808916" visible="true" weight="0.30232558" />
       <window_info anchor="right" id="SciView" order="8" />
       <window_info anchor="right" id="Database" order="9" />
       <window_info anchor="right" id="Palette&#9;" order="10" />
@@ -381,7 +387,8 @@
     <MESSAGE value="Cards now generated from a List" />
     <MESSAGE value="Cards now more dynamic (image path)" />
     <MESSAGE value="Minor update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Minor update" />
+    <MESSAGE value="App separated into small modules." />
+    <option name="LAST_COMMIT_MESSAGE" value="App separated into small modules." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore">
@@ -453,15 +460,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dummy_app/lib/products.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="360">
+          <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dummy_app/lib/product_manager.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="31" column="26" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
+        <state relative-caret-position="402">
+          <caret line="32" column="14" selection-start-line="31" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
@@ -470,8 +477,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dummy_app/lib/main.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="27" column="28" lean-forward="true" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+        <state relative-caret-position="271">
+          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>

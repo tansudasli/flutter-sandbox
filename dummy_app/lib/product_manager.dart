@@ -3,22 +3,28 @@ import 'package:flutter/material.dart';
 import './products.dart';
 
 class ProductManager extends StatefulWidget {
+  final List<List<String>> initialProducts;
+
+  ProductManager(this.initialProducts);
+
   @override
   State<StatefulWidget> createState() {
-    // TODO: implement createState
     return ProductManagerState();
   }
 }
 
 class ProductManagerState extends State<ProductManager> {
-  List<List<String>> products = [
-    ['Food Hell', 'assets/images/food-post.jpg'],
-    ['Food Parade', 'assets/images/food-post-2.jpg']
-  ];
+  List<List<String>> products = [];
+
+  @override
+  void initState() {
+    widget.initialProducts.forEach((product) => products.add(product));
+
+    super.initState();
+  }
 
   @override
   Widget build(BuildContext context) {
-    // TODO: implement build
     return Column(
       children: <Widget>[
         RaisedButton(
