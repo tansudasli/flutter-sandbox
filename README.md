@@ -3,6 +3,7 @@
 this is created a genetic static web project in IntelliJ. And flutter apps added as a new separate modules.
 
 - demo_app: standard flutter project which contains demo application. good for testing environments! the one comes w/ `flutter create`
+- dummy_app: basic product app. - [to see](https://github.com/tansudasli/flutter-sandbox/blob/master/dummy-app.mov)
 
 ## How to Start
 
@@ -16,7 +17,4 @@ this is created a genetic static web project in IntelliJ. And flutter apps added
      - for IOS, run `open -a Simulator.app`
      - for Android, use IntelliJ **UI**, `tools/Android/AVD Manager` menu
    - `flutter run` or `flutter run -d DEVICE_ID` in case of many running simulators/emulators
-   
-## Getting started
 
-- [to see dummy  app](https://github.com/tansudasli/flutter-sandbox/blob/master/dummy-app.mov)
