@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27f34616-f2bb-43e8-bfca-294f81ed0ed5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dummy_app/lib/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_app/assets/images/food-post-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_app/assets/images/food-post-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy_app/assets/images/food-post.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter-sandbox.iml" beforeDir="false" afterPath="$PROJECT_DIR$/flutter-sandbox.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_app/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/dummy_app/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy_app/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/dummy_app/pubspec.yaml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,8 +24,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demo_app/lib/main.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="362">
-              <caret line="93" column="17" lean-forward="true" selection-start-line="93" selection-start-column="17" selection-end-line="93" selection-end-column="17" />
+            <state relative-caret-position="765">
+              <caret line="93" column="17" selection-start-line="93" selection-start-column="17" selection-end-line="93" selection-end-column="17" />
               <folding>
                 <element signature="e#298#339#0" />
                 <element signature="e#1057#1133#0" />
@@ -40,8 +40,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dummy_app/lib/main.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="385">
-              <caret line="36" column="6" lean-forward="true" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
+            <state relative-caret-position="411">
+              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dummy_app/pubspec.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="281">
+              <caret line="47" column="2" selection-start-line="47" selection-start-column="2" selection-end-line="47" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -51,7 +60,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="240">
-                <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+                <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
               </first_editor>
               <second_editor />
             </state>
@@ -67,20 +76,27 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>image</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/demo_app/lib/mainDummy.dart" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/dummy_app/lib/main.dart" />
+        <option value="$PROJECT_DIR$/dummy_app/pubspec.yaml" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="1440" />
+    <option name="width" value="1427" />
     <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -89,7 +105,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -97,12 +113,30 @@
               <item name="flutter-sandbox" type="b2602c69:ProjectViewProjectNode" />
               <item name="flutter-sandbox" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="flutter-sandbox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flutter-sandbox" type="462c0819:PsiDirectoryNode" />
+              <item name="dummy_app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flutter-sandbox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flutter-sandbox" type="462c0819:PsiDirectoryNode" />
+              <item name="dummy_app" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flutter-sandbox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flutter-sandbox" type="462c0819:PsiDirectoryNode" />
+              <item name="dummy_app" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -124,6 +158,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dummy_app/assets/images" />
       <recent name="$PROJECT_DIR$/dummy_app/lib" />
     </key>
   </component>
@@ -163,7 +198,8 @@
       <workItem from="1561539303025" duration="334000" />
       <workItem from="1561539640329" duration="389000" />
       <workItem from="1561540157806" duration="5198000" />
-      <workItem from="1561547130684" duration="726000" />
+      <workItem from="1561547130684" duration="1725000" />
+      <workItem from="1561549996454" duration="1190000" />
     </task>
     <task id="LOCAL-00001" summary="Initialize - how to start">
       <created>1561541506404</created>
@@ -179,16 +215,37 @@
       <option name="project" value="LOCAL" />
       <updated>1561541679436</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Initialize - new dummy app to test from scratch">
+      <created>1561548074194</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1561548074195</updated>
+    </task>
+    <task id="LOCAL-00004" summary="minor update">
+      <created>1561549194575</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1561549194575</updated>
+    </task>
+    <task id="LOCAL-00005" summary="minor update - reformated">
+      <created>1561549304082</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1561549304082</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6647000" />
+    <option name="totallyTimeSpent" value="8836000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="877" extended-state="0" />
+    <frame x="0" y="23" width="1427" height="877" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49936306" visible="true" weight="0.18383405" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49936306" visible="true" weight="0.18555957" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Build Variants" order="3" sideWeight="0.50190115" side_tool="true" weight="0.24964234" />
@@ -209,8 +266,8 @@
       <window_info anchor="bottom" id="Logcat" order="10" />
       <window_info anchor="bottom" id="Flutter Performance" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info anchor="bottom" id="Version Control" order="13" weight="0.3299363" />
-      <window_info anchor="bottom" id="Terminal" order="14" visible="true" weight="0.3299363" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="13" visible="true" weight="0.3299363" />
+      <window_info anchor="bottom" id="Terminal" order="14" weight="0.3299363" />
       <window_info anchor="bottom" id="Dart Analysis" order="15" weight="0.3299363" />
       <window_info anchor="bottom" id="Messages" order="16" weight="0.3299363" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -219,8 +276,8 @@
       <window_info anchor="right" id="Maven" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Flutter Inspector" order="5" />
-      <window_info anchor="right" id="Device File Explorer" order="6" sideWeight="0.50063694" side_tool="true" weight="0.20028612" />
-      <window_info anchor="right" id="Flutter Outline" order="7" sideWeight="0.49936306" visible="true" weight="0.3297568" />
+      <window_info anchor="right" id="Device File Explorer" order="6" sideWeight="0.5019108" side_tool="true" weight="0.3297568" />
+      <window_info anchor="right" id="Flutter Outline" order="7" sideWeight="0.49808916" visible="true" weight="0.33285198" />
       <window_info anchor="right" id="SciView" order="8" />
       <window_info anchor="right" id="Database" order="9" />
       <window_info anchor="right" id="Palette&#9;" order="10" />
@@ -232,7 +289,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initialize - how to start" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initialize - how to start" />
+    <MESSAGE value="Initialize - new dummy app to test from scratch" />
+    <MESSAGE value="minor update" />
+    <MESSAGE value="minor update - reformated" />
+    <option name="LAST_COMMIT_MESSAGE" value="minor update - reformated" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore">
@@ -252,20 +312,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="240">
-            <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/demo_app/lib/main.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="93" column="17" lean-forward="true" selection-start-line="93" selection-start-column="17" selection-end-line="93" selection-end-column="17" />
+        <state relative-caret-position="765">
+          <caret line="93" column="17" selection-start-line="93" selection-start-column="17" selection-end-line="93" selection-end-column="17" />
           <folding>
             <element signature="e#298#339#0" />
             <element signature="e#1057#1133#0" />
@@ -276,10 +326,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="240">
+            <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dummy_app/assets/images/food-post-2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dummy_app/assets/images/food-post.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dummy_app/pubspec.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="47" column="2" selection-start-line="47" selection-start-column="2" selection-end-line="47" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/dummy_app/lib/main.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="36" column="6" lean-forward="true" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
+        <state relative-caret-position="411">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
         </state>
       </provider>
     </entry>

@@ -26,6 +26,10 @@ class MyHomePageState extends State<MyHomePage> {
       appBar: AppBar(
         title: Text('Title'),
       ),
+      body: Card(child: Column(children: <Widget>[
+        Image.asset('assets/images/food-post.jpg'),
+        Text('Food Hell')
+      ],),),
     );
   }
 }
