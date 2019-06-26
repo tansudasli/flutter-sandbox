@@ -12,6 +12,7 @@ class MyApp extends StatelessWidget {
       home: MyHomePage(),
       theme: ThemeData(
         primarySwatch: Colors.amber,
+        accentColor: Colors.deepPurpleAccent
       ),
     );
   }

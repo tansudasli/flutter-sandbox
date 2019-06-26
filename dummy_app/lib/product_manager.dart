@@ -33,7 +33,7 @@ class ProductManagerState extends State<ProductManager> {
                   products.add(['Food Crash', 'assets/images/food-post-3.jpg']));
             },
             child: Text('Add products'),
-            color: Colors.deepPurpleAccent,
+            color: Theme.of(context).accentColor,
             textColor: Colors.white),
       Products(products)],
     );
