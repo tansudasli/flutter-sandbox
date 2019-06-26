@@ -26,10 +26,27 @@ class MyHomePageState extends State<MyHomePage> {
       appBar: AppBar(
         title: Text('Title'),
       ),
-      body: Card(child: Column(children: <Widget>[
-        Image.asset('assets/images/food-post.jpg'),
-        Text('Food Hell')
-      ],),),
+      body: Column(
+        children: <Widget>[
+          Card(
+            child: Padding(
+              padding: const EdgeInsets.all(8.0),
+              child: Column(
+                children: <Widget>[
+                  Image.asset('assets/images/food-post.jpg'),
+                  Text('Food Hell')
+                ],
+              ),
+            ),
+          ),
+           RaisedButton(
+              onPressed: () => {},
+              child: Text('Add to basket'),
+              color: Colors.deepPurpleAccent,
+              textColor: Colors.white
+            ),
+        ],
+      ),
     );
   }
 }

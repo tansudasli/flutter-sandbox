@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27f34616-f2bb-43e8-bfca-294f81ed0ed5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dummy_app/assets/images/food-post-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dummy_app/assets/images/food-post-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dummy_app/assets/images/food-post.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dummy_app/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/dummy_app/lib/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy_app/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/dummy_app/pubspec.yaml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,8 +36,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dummy_app/lib/main.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="411">
-              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+            <state relative-caret-position="248">
+              <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -89,14 +85,14 @@
       <list>
         <option value="$PROJECT_DIR$/demo_app/lib/mainDummy.dart" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/dummy_app/lib/main.dart" />
         <option value="$PROJECT_DIR$/dummy_app/pubspec.yaml" />
+        <option value="$PROJECT_DIR$/dummy_app/lib/main.dart" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="1427" />
+    <option name="width" value="1031" />
     <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -199,7 +195,7 @@
       <workItem from="1561539640329" duration="389000" />
       <workItem from="1561540157806" duration="5198000" />
       <workItem from="1561547130684" duration="1725000" />
-      <workItem from="1561549996454" duration="1190000" />
+      <workItem from="1561549996454" duration="3920000" />
     </task>
     <task id="LOCAL-00001" summary="Initialize - how to start">
       <created>1561541506404</created>
@@ -236,16 +232,24 @@
       <option name="project" value="LOCAL" />
       <updated>1561549304082</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Card and assets added.">
+      <created>1561557012717</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1561557012717</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8836000" />
+    <option name="totallyTimeSpent" value="11566000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1427" height="877" extended-state="0" />
+    <frame x="0" y="23" width="1031" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49936306" visible="true" weight="0.18555957" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49936306" weight="0.26386037" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Build Variants" order="3" sideWeight="0.50190115" side_tool="true" weight="0.24964234" />
@@ -266,8 +270,8 @@
       <window_info anchor="bottom" id="Logcat" order="10" />
       <window_info anchor="bottom" id="Flutter Performance" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="13" visible="true" weight="0.3299363" />
-      <window_info anchor="bottom" id="Terminal" order="14" weight="0.3299363" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.3299363" />
+      <window_info anchor="bottom" id="Terminal" order="14" visible="true" weight="0.3299363" />
       <window_info anchor="bottom" id="Dart Analysis" order="15" weight="0.3299363" />
       <window_info anchor="bottom" id="Messages" order="16" weight="0.3299363" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -277,7 +281,7 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Flutter Inspector" order="5" />
       <window_info anchor="right" id="Device File Explorer" order="6" sideWeight="0.5019108" side_tool="true" weight="0.3297568" />
-      <window_info anchor="right" id="Flutter Outline" order="7" sideWeight="0.49808916" visible="true" weight="0.33285198" />
+      <window_info active="true" anchor="right" id="Flutter Outline" order="7" sideWeight="0.49808916" visible="true" weight="0.34681496" />
       <window_info anchor="right" id="SciView" order="8" />
       <window_info anchor="right" id="Database" order="9" />
       <window_info anchor="right" id="Palette&#9;" order="10" />
@@ -292,7 +296,8 @@
     <MESSAGE value="Initialize - new dummy app to test from scratch" />
     <MESSAGE value="minor update" />
     <MESSAGE value="minor update - reformated" />
-    <option name="LAST_COMMIT_MESSAGE" value="minor update - reformated" />
+    <MESSAGE value="Card and assets added." />
+    <option name="LAST_COMMIT_MESSAGE" value="Card and assets added." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore">
@@ -351,8 +356,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dummy_app/lib/main.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        <state relative-caret-position="248">
+          <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
         </state>
       </provider>
     </entry>
