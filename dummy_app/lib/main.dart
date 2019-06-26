@@ -20,6 +20,8 @@ class MyHomePage extends StatefulWidget {
 }
 
 class MyHomePageState extends State<MyHomePage> {
+  List<String> products = ['Food Hell'];
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -28,23 +30,26 @@ class MyHomePageState extends State<MyHomePage> {
       ),
       body: Column(
         children: <Widget>[
-          Card(
-            child: Padding(
-              padding: const EdgeInsets.all(8.0),
-              child: Column(
-                children: <Widget>[
-                  Image.asset('assets/images/food-post.jpg'),
-                  Text('Food Hell')
-                ],
-              ),
-            ),
+          Column(
+            children: products
+                .map((element) => Card(
+                      child: Padding(
+                        padding: const EdgeInsets.all(8.0),
+                        child: Column(
+                          children: <Widget>[
+                            Image.asset('assets/images/food-post.jpg'),
+                            Text(element)
+                          ],
+                        ),
+                      ),
+                    ))
+                .toList(),
           ),
-           RaisedButton(
+          RaisedButton(
               onPressed: () => {},
               child: Text('Add to basket'),
               color: Colors.deepPurpleAccent,
-              textColor: Colors.white
-            ),
+              textColor: Colors.white),
         ],
       ),
     );
