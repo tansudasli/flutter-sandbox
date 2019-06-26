@@ -18,9 +18,9 @@ class ProductManagerState extends State<ProductManager> {
 
   @override
   void initState() {
-    widget.initialProducts.forEach((product) => products.add(product));
-
     super.initState();
+
+    widget.initialProducts.forEach((product) => products.add(product));
   }
 
   @override
