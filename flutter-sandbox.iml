@@ -9,6 +9,9 @@
       <excludeFolder url="file://$MODULE_DIR$/dummy_app/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/dummy_app/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/dummy_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/parrotize_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/parrotize_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/parrotize_app/build" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
   </component>

@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27f34616-f2bb-43e8-bfca-294f81ed0ed5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy_app/lib/product_manager.dart" beforeDir="false" afterPath="$PROJECT_DIR$/dummy_app/lib/product_manager.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/flutter-sandbox.iml" beforeDir="false" afterPath="$PROJECT_DIR$/flutter-sandbox.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,17 +19,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo_app/lib/main.dart">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dummy_app/lib/product_manager.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="765">
-              <caret line="93" column="17" selection-start-line="93" selection-start-column="17" selection-end-line="93" selection-end-column="17" />
+            <state relative-caret-position="216">
+              <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
               <folding>
-                <element signature="e#298#339#0" />
-                <element signature="e#1057#1133#0" />
-                <element signature="e#1692#2117#0" />
-                <element signature="e#2174#2249#0" />
-                <element signature="e#2934#2998#0" />
+                <element signature="e#0#39#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -40,20 +34,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dummy_app/lib/main.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="239">
-              <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/dummy_app/lib/product_manager.dart">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="99">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="210">
+              <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -64,29 +46,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dummy_app/lib/products.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dummy_app/pubspec.yaml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="705">
-              <caret line="47" column="2" selection-start-line="47" selection-start-column="2" selection-end-line="47" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="285">
-                <caret line="19" selection-start-line="19" selection-end-line="19" />
-              </first_editor>
-              <second_editor />
+            <state relative-caret-position="180">
+              <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -103,6 +64,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>image</find>
+      <find>init</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -158,6 +120,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -171,7 +134,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="dart.settings" />
@@ -224,7 +187,7 @@
       <workItem from="1561549996454" duration="11567000" />
       <workItem from="1561578718839" duration="160000" />
       <workItem from="1561578882632" duration="227000" />
-      <workItem from="1561579142799" duration="228000" />
+      <workItem from="1561579142799" duration="2441000" />
     </task>
     <task id="LOCAL-00001" summary="Initialize - how to start">
       <created>1561541506404</created>
@@ -317,17 +280,37 @@
       <option name="project" value="LOCAL" />
       <updated>1561571178785</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="initState line switched w/ super.initState">
+      <created>1561579496027</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1561579496027</updated>
+    </task>
+    <task id="LOCAL-00015" summary="minor update">
+      <created>1561579513298</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1561579513298</updated>
+    </task>
+    <task id="LOCAL-00016" summary="minor update - material design">
+      <created>1561582570979</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1561582570979</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19828000" />
+    <option name="totallyTimeSpent" value="22041000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1031" height="877" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49936306" weight="0.27300304" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49936306" visible="true" weight="0.27300304" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Build Variants" order="3" sideWeight="0.50190115" side_tool="true" weight="0.24964234" />
@@ -344,14 +327,14 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Android Profiler" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5015167" side_tool="true" weight="0.3299363" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5035389" side_tool="true" weight="0.3299363" />
       <window_info anchor="bottom" id="Logcat" order="10" />
       <window_info anchor="bottom" id="Flutter Performance" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info anchor="bottom" id="Version Control" order="13" sideWeight="0.49949443" weight="0.3299363" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="14" sideWeight="0.49848333" visible="true" weight="0.3299363" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="13" sideWeight="0.4974722" visible="true" weight="0.3299363" />
+      <window_info anchor="bottom" id="Terminal" order="14" sideWeight="0.49646106" weight="0.3299363" />
       <window_info anchor="bottom" id="Dart Analysis" order="15" weight="0.3299363" />
-      <window_info anchor="bottom" id="Messages" order="16" weight="0.3299363" />
+      <window_info anchor="bottom" id="Messages" order="16" sideWeight="0.49949443" weight="0.3299363" />
       <window_info anchor="bottom" id="Thumbnails" order="17" weight="0.3299363" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -360,7 +343,7 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Flutter Inspector" order="5" />
       <window_info anchor="right" id="Device File Explorer" order="6" sideWeight="0.5019108" side_tool="true" weight="0.3297568" />
-      <window_info anchor="right" id="Flutter Outline" order="7" sideWeight="0.49808916" visible="true" weight="0.30232558" />
+      <window_info anchor="right" id="Flutter Outline" order="7" sideWeight="0.49808916" weight="0.30232558" />
       <window_info anchor="right" id="SciView" order="8" />
       <window_info anchor="right" id="Database" order="9" />
       <window_info anchor="right" id="Palette&#9;" order="10" />
@@ -373,7 +356,6 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initialize - how to start" />
     <MESSAGE value="Initialize - new dummy app to test from scratch" />
-    <MESSAGE value="minor update" />
     <MESSAGE value="minor update - reformated" />
     <MESSAGE value="Card and assets added." />
     <MESSAGE value="Button added w/ padding" />
@@ -381,7 +363,10 @@
     <MESSAGE value="Cards now more dynamic (image path)" />
     <MESSAGE value="Minor update" />
     <MESSAGE value="App separated into small modules." />
-    <option name="LAST_COMMIT_MESSAGE" value="App separated into small modules." />
+    <MESSAGE value="initState line switched w/ super.initState" />
+    <MESSAGE value="minor update" />
+    <MESSAGE value="minor update - material design" />
+    <option name="LAST_COMMIT_MESSAGE" value="minor update - material design" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore">
@@ -420,34 +405,6 @@
     <entry file="file://$PROJECT_DIR$/dummy_app/assets/images/food-post-2.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo_app/lib/main.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="93" column="17" selection-start-line="93" selection-start-column="17" selection-end-line="93" selection-end-column="17" />
-          <folding>
-            <element signature="e#298#339#0" />
-            <element signature="e#1057#1133#0" />
-            <element signature="e#1692#2117#0" />
-            <element signature="e#2174#2249#0" />
-            <element signature="e#2934#2998#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dummy_app/lib/products.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dummy_app/pubspec.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="47" column="2" selection-start-line="47" selection-start-column="2" selection-end-line="47" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -461,10 +418,77 @@
     <entry file="file://$PROJECT_DIR$/flutter-sandbox.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/demo_app/test/widget_test.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#1047#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parrotize_app/test/widget_test.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#1052#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dummy_app/pubspec.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="47" column="2" selection-start-line="47" selection-start-column="2" selection-end-line="47" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo_app/lib/main.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="93" column="17" selection-start-line="93" selection-start-column="17" selection-end-line="93" selection-end-column="17" />
+          <folding>
+            <element signature="e#298#339#0" />
+            <element signature="e#1057#1133#0" />
+            <element signature="e#1692#2117#0" />
+            <element signature="e#2174#2249#0" />
+            <element signature="e#2934#2998#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parrotize_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parrotize_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parrotize_app/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dummy_app/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dummy_app/lib/products.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/dummy_app/lib/main.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+        <state relative-caret-position="210">
+          <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
@@ -473,8 +497,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dummy_app/lib/product_manager.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="216">
+          <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
@@ -498,7 +522,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>Android</last-edited>
+          <last-edited>Android (parrotize_app)|Android</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -534,7 +558,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Android|demo_app</last-edited>
+          <last-edited>dummy_app</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -546,7 +570,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Dart Packages</last-edited>
+          <last-edited>Flutter Plugins</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
