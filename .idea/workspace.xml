@@ -20,8 +20,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dummy_app/lib/product_manager.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="3" lean-forward="true" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
+            <state relative-caret-position="480">
+              <caret line="32" column="67" lean-forward="true" selection-start-line="31" selection-start-column="13" selection-end-line="32" selection-end-column="67" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -32,11 +32,23 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="480">
-                <caret line="36" column="30" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="300">
+                <caret line="25" column="58" selection-start-line="25" selection-start-column="58" selection-end-line="25" selection-end-column="58" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dummy_app/lib/main.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="36" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -242,7 +254,7 @@
       <workItem from="1561578882632" duration="227000" />
       <workItem from="1561579142799" duration="3298000" />
       <workItem from="1563877311855" duration="2477000" />
-      <workItem from="1563957106917" duration="4644000" />
+      <workItem from="1563957106917" duration="5388000" />
     </task>
     <task id="LOCAL-00001" summary="Initialize - how to start">
       <created>1561541506404</created>
@@ -398,17 +410,31 @@
       <option name="project" value="LOCAL" />
       <updated>1563986371741</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="minor update - flutter app structure documentation">
+      <created>1563986916797</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1563986916797</updated>
+    </task>
+    <task id="LOCAL-00024" summary="minor update - flutter app structure documentation">
+      <created>1563988053177</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1563988053177</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30019000" />
+    <option name="totallyTimeSpent" value="30763000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49936306" visible="true" weight="0.1988555" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49936306" visible="true" weight="0.1988555" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Build Variants" order="3" sideWeight="0.50190115" side_tool="true" weight="0.24964234" />
@@ -442,7 +468,7 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Flutter Inspector" order="5" />
       <window_info anchor="right" id="Device File Explorer" order="6" sideWeight="0.5019108" side_tool="true" weight="0.3297568" />
-      <window_info anchor="right" id="Flutter Outline" order="7" sideWeight="0.49808916" weight="0.30232558" />
+      <window_info anchor="right" id="Flutter Outline" order="7" sideWeight="0.49808916" visible="true" weight="0.3018598" />
       <window_info anchor="right" id="SciView" order="8" />
       <window_info anchor="right" id="Database" order="9" />
       <window_info anchor="right" id="Palette&#9;" order="10" />
@@ -469,7 +495,8 @@
     <MESSAGE value="minor update - product_web_app" />
     <MESSAGE value="minor update - format" />
     <MESSAGE value="minor update - flutter ap structure documentation" />
-    <option name="LAST_COMMIT_MESSAGE" value="minor update - flutter ap structure documentation" />
+    <MESSAGE value="minor update - flutter app structure documentation" />
+    <option name="LAST_COMMIT_MESSAGE" value="minor update - flutter app structure documentation" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore">
@@ -584,8 +611,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dummy_app/lib/main.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" selection-start-line="22" selection-end-line="25" selection-end-column="4" />
+        <state relative-caret-position="495">
+          <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="36" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
@@ -594,8 +621,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dummy_app/lib/product_manager.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="3" lean-forward="true" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
+        <state relative-caret-position="480">
+          <caret line="32" column="67" lean-forward="true" selection-start-line="31" selection-start-column="13" selection-end-line="32" selection-end-column="67" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
@@ -604,9 +631,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="480">
-            <caret line="36" column="30" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="300">
+            <caret line="25" column="58" selection-start-line="25" selection-start-column="58" selection-end-line="25" selection-end-column="58" />
           </first_editor>
           <second_editor />
         </state>
