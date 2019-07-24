@@ -3,7 +3,8 @@
 this is created a genetic static web project in IntelliJ. And flutter apps added as a new separate modules.
 
 - demo_app: standard flutter project which contains demo application. good for testing environments! the one comes w/ `flutter create`
-- dummy_app: basic product app. - [to see](https://github.com/tansudasli/flutter-sandbox/blob/master/dummy-app.mov)
+- dummy_app: basic product app for IOS and ANDROID. - [to see](https://github.com/tansudasli/flutter-sandbox/blob/master/dummy-app.mov)
+- product_web_app: basic product app for WEB.
 
 ## How to Start
 
