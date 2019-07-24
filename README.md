@@ -34,11 +34,12 @@ this is created a genetic static web project in IntelliJ. And flutter apps added
            + body: ProductManager(products)      
              + ProductManager extends StatefulWidget     #product_manager.dart
                - this.initialProducts = products         #this gets from global context
-               + return ProductManagerState
-                    - initState()
-                    + build(): Products(products) 
-                      + Products extends StatelessWidget #products.dart
-                        - this.products = products       #this gets from global context 
+               + createState(): return ProductManagerState
+                    + ProductMangerState extends State<ProductManager>
+                      - initState()
+                      + build(): Products(products) 
+                        + Products extends StatelessWidget #products.dart
+                          - this.products = products       #this gets from global context 
 
                      
 ```
