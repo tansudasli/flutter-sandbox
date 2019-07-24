@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/demo_app/demo_app.iml" filepath="$PROJECT_DIR$/demo_app/demo_app.iml" />
       <module fileurl="file://$PROJECT_DIR$/dummy_app/dummy_app.iml" filepath="$PROJECT_DIR$/dummy_app/dummy_app.iml" />
       <module fileurl="file://$PROJECT_DIR$/flutter-sandbox.iml" filepath="$PROJECT_DIR$/flutter-sandbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/product_web_app/product_web_app.iml" filepath="$PROJECT_DIR$/product_web_app/product_web_app.iml" />
     </modules>
   </component>
 </project>
