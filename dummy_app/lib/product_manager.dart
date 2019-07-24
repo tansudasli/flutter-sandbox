@@ -23,6 +23,8 @@ class ProductManagerState extends State<ProductManager> {
     widget.initialProducts.forEach((product) => products.add(product));
   }
 
+//  TODO: change state management
+//   bad state management below: global, setting state from outside etc..
   @override
   Widget build(BuildContext context) {
     return Column(
