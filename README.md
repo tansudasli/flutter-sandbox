@@ -38,6 +38,8 @@ this is created a genetic static web project in IntelliJ. And flutter apps added
                     + ProductMangerState extends State<ProductManager>
                       - initState()
                       + build(): Products(products) 
+                        + RaisedButton
+                          - onPressed: setState()
                         + Products extends StatelessWidget #products.dart
                           - this.products = products       #this gets from global context 
 
