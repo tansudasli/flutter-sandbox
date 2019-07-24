@@ -18,4 +18,30 @@ this is created a genetic static web project in IntelliJ. And flutter apps added
      - for IOS, run `open -a Simulator.app`
      - for Android, use IntelliJ **UI**, `tools/Android/AVD Manager` menu
    - `flutter run` or `flutter run -d DEVICE_ID` in case of many running simulators/emulators
+   
+## Skeleton of a Flutter app
+
+```
+
++ app extends StatelessWidget                           #main.dart
++ return MaterialApp
+  + theme: ThemeData()
+  + home: MainPage()
+      + MainPage extends StatelessWidget
+        + return Scaffold
+           - products #fetch data
+           - appBar: AppBar()
+           + body: ProductManager(products)      
+             + ProductManager extends StatefulWidget     #product_manager.dart
+               - this.initialProducts = products         #this gets from global context
+               + return ProductManagerState
+                    - initState()
+                    + build(): Products(products) 
+                      + Products extends StatelessWidget #products.dart
+                        - this.products = products       #this gets from global context 
+
+                     
+```
+
+
 
