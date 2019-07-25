@@ -23,7 +23,7 @@ this is created a genetic static web project in IntelliJ. And flutter apps added
 
 ```
 
-+ app extends StatelessWidget                             #main.dart
++ app extends StatelessWidget                               #main.dart
 + return MaterialApp
   + theme: ThemeData()
   + home: MainPage()
@@ -32,15 +32,15 @@ this is created a genetic static web project in IntelliJ. And flutter apps added
            - products #fetch data
            - appBar: AppBar()
            + body: ProductManager(products)      
-             + ProductManager extends StatefulWidget       #product_manager.dart
+             + ProductManager extends StatefulWidget         #product_manager.dart
                - this.initialProducts = products        
-               + createState(): return ProductManagerState
-                    + ProductMangerState extends State<ProductManager>
-                      - initState()
+               + createState(): return ProductManagerState      
+                    + ProductManagerState extends State<ProductManager>
+                      - initState()   
                       + build(): Products(products) 
                         + RaisedButton
-                          - onPressed: setState()          #add a new product
-                        + Products extends StatelessWidget #products.dart
+                          - onPressed: setState()                #state management, add a new product
+                        + Products extends StatelessWidget   #products.dart
                           - this.products = products        
 
                      
